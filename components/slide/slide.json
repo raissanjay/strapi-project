@@ -1,0 +1,22 @@
+{
+  "collectionName": "components_slide_slides",
+  "info": {
+    "name": "Slide",
+    "icon": "archive"
+  },
+  "options": {},
+  "attributes": {
+    "circles": {
+      "type": "string"
+    },
+    "arrows": {
+      "type": "string"
+    },
+    "boardPosition": {
+      "type": "string"
+    },
+    "title": {
+      "type": "string"
+    }
+  }
+}

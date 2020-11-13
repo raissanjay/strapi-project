@@ -1,0 +1,13 @@
+{
+  "collectionName": "components_article_texts",
+  "info": {
+    "name": "Text",
+    "icon": "text-width"
+  },
+  "options": {},
+  "attributes": {
+    "textComponent": {
+      "type": "richtext"
+    }
+  }
+}

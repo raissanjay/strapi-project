@@ -1,0 +1,13 @@
+{
+  "collectionName": "components_table_of_content_rtes",
+  "info": {
+    "name": "rte",
+    "icon": "bars"
+  },
+  "options": {},
+  "attributes": {
+    "tocText": {
+      "type": "richtext"
+    }
+  }
+}

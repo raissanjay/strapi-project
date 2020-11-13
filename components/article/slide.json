@@ -1,0 +1,15 @@
+{
+  "collectionName": "components_article_slides",
+  "info": {
+    "name": "Slides",
+    "icon": "sliders-h"
+  },
+  "options": {},
+  "attributes": {
+    "Slides": {
+      "type": "component",
+      "repeatable": true,
+      "component": "slide.slide"
+    }
+  }
+}
